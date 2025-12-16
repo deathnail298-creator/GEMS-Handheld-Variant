@@ -1,0 +1,63 @@
+Failure Tolerance Philosophy
+Design Intent
+
+The GEMS Handheld Variant is designed to be failure-benign, non-propagating, and human-recoverable. No failure mode may introduce a safety hazard, alter the behavior of the GEMS system, or create operational dependency.
+
+Failure of the handheld unit is considered an acceptable and anticipated outcome.
+
+Core Principles
+
+Failures remain local to the handheld unit.
+
+Failures do not propagate to GEMS, habitat systems, or EVA operations.
+
+Human operators remain fully in control of detection and recovery.
+
+The system may be abandoned without consequence.
+
+Accepted Failure Modes
+
+The following failure modes are considered acceptable and non-hazardous:
+
+Clogging
+Dust accumulation may impede flow. The operator may clear the clog manually or discontinue use.
+
+Seal Degradation
+Reduced containment efficiency may occur over time. Use may be halted without downstream impact.
+
+Dust Bypass or Leakage
+Minor dust release into the external environment is acceptable and bounded.
+
+Mechanical Wear or Damage
+Components may degrade, deform, or break during use. Tool usability may be reduced or lost.
+
+Operator Misuse
+Incorrect handling results only in reduced effectiveness, not unsafe states.
+
+Explicit Non-Failures
+
+The following conditions are explicitly disallowed:
+
+Introduction of dust into habitat interior volumes
+
+Modification, contamination, or damage to the GEMS system
+
+Creation of a requirement for continuous operation
+
+Dependency of EVA or mission success on tool availability
+
+Failure Response
+
+Failure response is limited to:
+
+Manual clearing
+
+Discontinuation of use
+
+Physical removal or abandonment of the handheld unit
+
+No automated responses, alerts, or recovery systems are required.
+
+Plain-English Summary
+
+This page defines the tool as safe to fail, with all failures confined to the handheld unit and recoverable by simple human actions. If the tool clogs, leaks, or breaks, it can be stopped or abandoned without affecting GEMS, crew safety, or mission operations.
