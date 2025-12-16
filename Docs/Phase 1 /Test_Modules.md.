@@ -1,0 +1,126 @@
+Test Modules
+
+Phase 1 testing for the GEMS Handheld Variant is organized into discrete test modules. Each module is designed to evaluate a single functional question with clear pass/fail outcomes.
+
+Testing is conducted using lunar regolith simulant under terrestrial conditions.
+
+Module A — Dust Capture
+
+Objective
+Determine whether the intake head can mechanically capture dust from representative external surfaces.
+
+Method
+
+Apply the intake head to dusty surfaces using normal hand motions.
+
+Observe dust mobilization and capture behavior.
+
+Pass Criteria
+
+Visible dust is captured and directed into the containment path.
+
+No uncontrolled dispersal attributable to tool geometry.
+
+Fail Criteria
+
+Dust is predominantly dispersed rather than captured.
+
+Capture behavior is inconsistent or non-repeatable.
+
+Module B — Routing and Containment
+
+Objective
+Verify that captured material can be routed through the conduit to a downstream collection container.
+
+Method
+
+Operate the tool while routing captured simulant through the sealed conduit.
+
+Inspect joints and seals during and after operation.
+
+Pass Criteria
+
+Material reaches the collection container.
+
+No continuous visible leakage during nominal use.
+
+Fail Criteria
+
+Frequent or persistent leakage at joints or interfaces.
+
+Inability to route material through the conduit.
+
+Module C — Re-Aerosolization Check
+
+Objective
+Assess whether tool operation generates persistent re-aerosolized dust near the operator.
+
+Method
+
+Observe the air near the intake head and operator during use.
+
+Optional coarse particulate measurement may be used.
+
+Pass Criteria
+
+No sustained dust cloud attributable to tool operation.
+
+Any dust release is brief and localized.
+
+Fail Criteria
+
+Persistent airborne dust generated during nominal use.
+
+Module D — Clog and Clearing Behavior
+
+Objective
+Evaluate how clogging occurs and whether it can be resolved through simple manual action.
+
+Method
+
+Increase dust loading during operation.
+
+Observe clog onset and attempt manual clearing.
+
+Pass Criteria
+
+Clogs are detectable and recoverable through simple actions.
+
+Clearing does not require disassembly or specialized tools.
+
+Fail Criteria
+
+Clogs are frequent and irrecoverable.
+
+Clearing requires complex or unsafe actions.
+
+Module E — Human Factors
+
+Objective
+Confirm basic usability under gloved operation.
+
+Method
+
+Operate the tool with gloves representative of EVA constraints.
+
+Observe grip, reach, fatigue, and handling issues.
+
+Pass Criteria
+
+Tool can be operated using intuitive motions.
+
+Physical effort remains reasonable.
+
+Fail Criteria
+
+Operation requires fine motor control or excessive force.
+
+Handling issues impede basic use.
+
+Module Completion
+
+All modules are executed sequentially or independently as practical. Failure of any module does not invalidate others but may trigger termination criteria.
+
+Plain-English Summary
+
+This page defines simple tests to check whether the handheld tool can capture dust, route it without leaking, avoid creating dust clouds, recover from clogs, and be used comfortably with gloves. Each test has clear pass and fail conditions to support a straightforward decision.
