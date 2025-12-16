@@ -1,0 +1,72 @@
+Prototype Hardware Definition
+
+This page defines the physical scope of the Phase 1 prototype for the GEMS Handheld Variant. The prototype is intended solely for terrestrial validation and does not represent flight hardware.
+
+Prototype Scope
+
+The Phase 1 prototype is a bench-scale, non-flight, off-the-shelf assembly constructed to validate basic functional behavior.
+
+Included elements:
+
+Intake Head
+Representative geometry suitable for mechanical disturbance and dust capture.
+
+Capture / Containment Volume
+A simple volume immediately downstream of the intake head to temporarily hold captured material.
+
+Sealed Routing Conduit
+Flexible or semi-rigid conduit connecting the handheld unit to a downstream collection container.
+
+Downstream Collection Container
+A passive container used to receive routed material and simulate a GEMS intake.
+
+Mechanical Interfaces and Seals
+Passive joints, couplings, and seals sufficient to support containment during testing.
+
+Prototype Constraints
+
+The Phase 1 prototype explicitly excludes:
+
+Flight-rated materials or fabrication methods
+
+Environmental hardening (thermal, vacuum, radiation)
+
+Active suction or powered airflow systems
+
+Electronics, sensors, or control logic
+
+Integration with actual GEMS hardware
+
+Life-support or habitat interfaces
+
+Any component selection or fabrication approach is acceptable provided functional intent is preserved.
+
+Acceptable Substitutions
+
+Improvised or surrogate components may be used where appropriate, including:
+
+Commercial hoses or tubing
+
+Off-the-shelf containers
+
+Simple gaskets or sealing materials
+
+Hand-fabricated or 3D-printed parts
+
+Precision, durability, and repeatability are not required beyond what is necessary to observe functional behavior.
+
+Prototype Validity
+
+The prototype is considered valid for Phase 1 testing if:
+
+All functional elements are present
+
+Dust can be captured, routed, and collected
+
+Failures can be observed directly
+
+Prototype failure or damage during testing is acceptable and does not invalidate Phase 1 results.
+
+Plain-English Summary
+
+This page defines a simple, non-flight prototype made from basic materials to test whether the handheld tool can capture and route dust. It avoids flight hardware, electronics, or environmental testing and is only meant for early functional validation.
