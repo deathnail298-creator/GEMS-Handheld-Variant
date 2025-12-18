@@ -1,0 +1,148 @@
+# Phase 2 — Theory-Only Analysis
+
+## Scope and Purpose
+
+Phase 2 contains **theory-only materials**. This phase exists to explore assumptions, boundaries, failure extremes, and second‑order effects *without* authorizing execution.
+
+This is not a continuation of Phase 0 or Phase 1. It is a **separate legal and conceptual phase** with a **different license** and a different intent.
+
+Phase 2 answers:
+
+* *If this were attempted, what breaks?*
+* *Where are the edge cases and hidden risks?*
+* *Which assumptions matter and which do not?*
+* *What would an executive actually be buying or avoiding?*
+
+It does **not** answer:
+
+* How to build
+* How to test
+* How to deploy
+* How to optimize
+
+---
+
+## Phase Separation (Important)
+
+* **Phase 0**: Permission to exist (problem framing, non‑claims, boundaries)
+* **Phase 1**: Permission to test (bounded prototypes and validation)
+* **Phase 2**: **Permission to think, not to act**
+
+Phase 2 materials are governed by a **theory‑only license** that explicitly **prohibits execution** without a separate execution license defined in Phase 3.
+
+Reading Phase 2 does not expand Phase 0 or Phase 1 rights.
+
+---
+
+## License Governing Phase 2
+
+All Phase 2 materials are governed by the **Theory Exploration License (TEL‑1.0)**.
+
+Key point, stated plainly:
+
+> You may read, analyze, critique, and reason about these materials.
+> You may **not** build, test, simulate for implementation, propose, fund, or deploy anything derived from them without a separate execution license.
+
+The full license text is provided in `LICENSE_TEL-1.0.md` and is legally controlling.
+
+---
+
+## What Phase 2 Contains
+
+Typical Phase 2 artifacts include:
+
+* Assumption stress tests
+* Failure extremes and worst‑case reasoning
+* Constraint violations and edge‑case analysis
+* Comparative archetypes (what this is / is not)
+* Long‑tail and low‑probability risks
+* Phase boundary analysis (what must *not* leak into execution)
+
+These documents are intentionally conservative and may describe failure modes that never occur in practice.
+
+That is the point.
+
+---
+
+## Executive Value Overview (Non‑Operational)
+
+### Audience
+
+Executives · Program Management · Finance · Risk
+
+### Scope Rule
+
+This section explains **where value comes from** in time, money, and risk terms.
+
+It does **not** claim performance numbers, savings guarantees, or ROI.
+
+All values are directional and comparative.
+
+---
+
+## Executive Interpretation (Phase 2)
+
+Phase 2 is not a technology deliverable.
+
+It is a **cost‑avoidance filter**.
+
+Organizations typically spend large sums *before* hardware exists on:
+
+* feasibility reinvention
+* internal alignment debates
+* failure‑tolerance arguments
+* scope churn
+* review cycles that resolve nothing
+
+Phase 2 collapses that uncertainty **before execution is authorized**.
+
+Execution risk remains with the licensee, as it should.
+
+Analysis risk is front‑loaded and already exposed.
+
+---
+
+## What Licensing Replaces
+
+Licensing execution (Phase 3) replaces:
+
+* re‑arguing feasibility from scratch
+* rediscovering failure modes
+* rebuilding boundary logic
+* internal disagreement on scope and intent
+
+It does **not** replace:
+
+* engineering judgment
+* testing
+* integration
+* certification
+
+---
+
+## Plain‑English Summary
+
+Phase 2 exists to prevent organizations from spending real money discovering problems that can be identified cheaply and early.
+
+Reading is free.
+
+Execution is not.
+
+If you are looking to *build something*, you are in the wrong phase.
+
+---
+
+## Phase Discipline Note
+
+Phase 2 intentionally avoids:
+
+* performance claims
+* dollar figures
+* schedules
+* ROI math
+
+Those appear only when execution is authorized.
+
+---
+
+**End of Phase 2 README**
