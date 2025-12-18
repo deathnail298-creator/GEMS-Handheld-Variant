@@ -1,0 +1,110 @@
+Phase 3 README — Structure (locked)
+1. What Phase 3 Is
+
+Phase 3 = execution and money
+
+This is the only phase where building, testing, simulation-for-implementation, proposals, or deployment are authorized
+
+Everything before this remains non-executable by definition
+
+2. Phase Separation (Hard Restatement)
+
+Phase 0 / 1 = open + bounded
+
+Phase 2 = theory-only (TEL-1.0)
+
+Phase 3 = execution license required
+
+No retroactive permission, no implied rights
+
+This section exists so lawyers stop reading early and nod.
+
+3. What “Commercial” vs “Non-Commercial” Means (License Interpretation)
+
+This is the part you explicitly asked for, and we’ll be very crisp.
+
+Non-Commercial (No Execution License Required):
+
+Reading and internal discussion
+
+Academic critique
+
+Teaching or presentation without implementation
+
+High-level referencing with no build, test, or proposal
+
+Thought exercises and internal evaluation
+
+Commercial / Executable Use (Execution License Required):
+
+Building or prototyping (even internally)
+
+Simulation intended to inform real hardware or operations
+
+Lab testing or field testing
+
+Use in proposals, bids, grants, SBIRs, contracts
+
+Government, defense, or corporate deployment
+
+Integration into any real system
+
+Derivative designs intended for execution
+
+Costed plans or schedules tied to real programs
+
+Plain rule:
+
+If it influences a real decision, budget, proposal, or build — it’s execution.
+
+4. Execution License Summary
+
+Phase 3 execution license = $5,000 USD
+
+One-time execution gate
+
+Authorizes execution only — not ownership
+
+Royalties or scope expansions handled separately if applicable
+
+Written grant only
+
+No numbers beyond the license fee. No promises.
+
+5. Executive Value Breakdown (This Is the “Why Pay” Section)
+
+Executive-facing, not engineering-facing.
+
+Framed as:
+
+cost avoidance
+
+time avoidance
+
+risk compression
+
+No carried-over numbers from other repos.
+
+Language like:
+
+“avoids six-figure early-phase spend”
+
+“front-loads disagreement before capital is committed”
+
+“preserves budget for hardware instead of analysis churn”
+
+This is where we explain that $5k replaces months of internal argument and reinvention, not that it buys a gadget.
+
+6. What This Is Not
+
+Not a technology sale
+
+Not a performance guarantee
+
+Not a turnkey system
+
+Not a consulting engagement
+
+Not a requirement to proceed
+
+This keeps expectations sane.
